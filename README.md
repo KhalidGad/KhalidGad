@@ -26,7 +26,6 @@
 - 💻 Specialized in **iOS Development** (Swift, UIKit, SwiftUI)  
 - 🚀 Built projects in **banking, e-commerce, media streaming, and education**  
 - 🎥 Founder of [**Taht El Jazr**](https://youtube.com/@Taht_ELJAZR) – a YouTube channel teaching Computer Science  
-- 👨‍🏫 Instructor at **Brain Hub Academy**, teaching programming courses for kids  
 - 🌍 Open to opportunities in **mobile development** worldwide  
 
 ---
