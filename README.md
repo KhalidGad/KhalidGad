@@ -73,7 +73,7 @@
 
 ## 📫 Contact Me  
 
-- 📧 **Email:** [imkhalidgad@gmail.com](mailto:imkhalidgad@gmail.com)  
+- 📧 **Email:** [imkhalidgad@gmail.com](mailto:khalidgad.ios@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/khalid-gad](https://www.linkedin.com/in/khalid-gad)  
-- 👨‍💻 **GitHub:** [github.com/imkhalidgad](https://github.com/imkhalidgad)  
+- 👨‍💻 **GitHub:** [github.com/imkhalidgad](https://github.com/khalidgad)  
 - 🎥 **YouTube:** [Taht El Jazr](https://youtube.com/@Taht_ELJAZR)  
